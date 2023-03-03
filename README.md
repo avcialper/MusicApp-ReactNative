@@ -1,4 +1,4 @@
 # MUSIC APP
-This application developed with the [patika.dev](https://app.patika.dev/courses/react-native/odev_1) course.<br/>
-Youtube redirect was added later.<br/>
-https://user-images.githubusercontent.com/90919011/222661591-42777637-26c6-406e-8a07-018ff6aeb3e0.mp4
+If you press the name of the song, you will go to the youtube link.
+
+https://user-images.githubusercontent.com/90919011/222668820-6e0c036e-9d14-4ea1-b57d-647fbb897aca.mp4
