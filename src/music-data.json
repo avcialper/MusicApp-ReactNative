@@ -1,0 +1,162 @@
+[
+  {
+    "id": "0",
+    "title": "Başaramadım",
+    "artist": "Azer Bülbül",
+    "album": "Zordayım - Canım Yanıyor",
+    "year": 1998,
+    "isSoldOut": true,
+    "imageUrl": "data:image/jpeg;base64,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",
+    "youtubeUrl": "https://www.youtube.com/watch?v=tCF9R6zB9X0&ab_channel=andacx38"
+  },
+  {
+    "id": "1",
+    "title": "King Nothing",
+    "artist": "Metallica",
+    "album": "Load",
+    "year": 1996,
+    "isSoldOut": true,
+    "imageUrl": "http://i.scdn.co/image/5a06711d7fc48d5e0e3f9a3274ffed3f0af1bd91",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Xz9DX_VMXdI&ab_channel=WarnerRecordsVault"
+  },
+  {
+    "id": "2",
+    "title": "Epitaph",
+    "artist": "King Crimson",
+    "album": "In The Court Of The Crimson King",
+    "year": 1969,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e36a62897cf3f5937bf9c16",
+    "youtubeUrl": "https://www.youtube.com/watch?v=vXrpFxHfppI&ab_channel=KingCrimson"
+  },
+  {
+    "id": "3",
+    "title": "Siyah (Esved)",
+    "artist": "Neyse",
+    "album": "Neyse",
+    "year": 2011,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363a94f6459d13c78bda9c872",
+    "youtubeUrl": "https://www.youtube.com/watch?v=j3qTz0YCcFc&ab_channel=NeyseVEVO"
+  },
+  {
+    "id": "4",
+    "title": "Angelica",
+    "artist": "Anathema",
+    "album": "Eternity",
+    "year": 1996,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c62df3fa967ac4382b54147",
+    "youtubeUrl": "https://www.youtube.com/watch?v=3zg1a08CHLA&ab_channel=Anathema-Topic"
+  },
+  {
+    "id": "5",
+    "title": "Living in the Shadows",
+    "artist": "Matthew Perryman Jones",
+    "album": "(Single)",
+    "year": 2016,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313f1a15c18f40a991691f3d6",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dLB42B08N5k&ab_channel=MatthewPerrymanJones"
+  },
+  {
+    "id": "6",
+    "title": "Habibi",
+    "artist": "Tamino",
+    "album": "Amir",
+    "year": 2018,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/f17ddfa246db1b8e1f681f658be732b0779d7ea2",
+    "youtubeUrl": "https://www.youtube.com/watch?v=zznlf3ZKQi0&ab_channel=Tamino"
+  },
+  {
+    "id": "7",
+    "title": "All Along the Watchtower",
+    "artist": "Jimi Hendrix",
+    "album": "Electric Ladyland",
+    "year": 1968,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292",
+    "youtubeUrl": "https://www.youtube.com/watch?v=TLV4_xaYynY&ab_channel=JimiHendrixVEVO"
+  },
+  {
+    "id": "8",
+    "title": "Benimle Uçmak İster Misin?",
+    "artist": "Yavuz Çetin",
+    "album": "Satılık",
+    "year": 2001,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc78d57f01d3439af0cd172e",
+    "youtubeUrl": "https://www.youtube.com/watch?v=qBiS4cBE2_c&ab_channel=thepirateradio"
+  },
+  {
+    "id": "9",
+    "title": "God Was Never On Your Side",
+    "artist": "Motörhead",
+    "album": "Kiss of Death",
+    "year": 2001,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae5941e5e616db0fc4dcd089",
+    "youtubeUrl": "https://www.youtube.com/watch?v=o1hSSuc42P8&ab_channel=Mot%C3%B6rhead-Topic"
+  },
+  {
+    "id": "10",
+    "title": "Snuff",
+    "artist": "Slipknot",
+    "album": "All Hope Is Gone",
+    "year": 2008,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273457163bec7e8e4decf8c6375",
+    "youtubeUrl": "https://www.youtube.com/watch?v=LXEKuttVRIo&ab_channel=Slipknot"
+  },
+  {
+    "id": "11",
+    "title": "Duş",
+    "artist": "Teoman",
+    "album": "En Güzel Hikayem",
+    "year": 2004,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732611f7e8a56c4c213bc13965",
+    "youtubeUrl": "https://www.youtube.com/watch?v=FvjTSVavdZM&ab_channel=MuzikPlay"
+  },
+  {
+    "id": "12",
+    "title": "Black",
+    "artist": "Kari Kimmel",
+    "album": "Black",
+    "year": 2015,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4e0a2e01d6b19a9384cb6f1",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xUCxxp1IZdY&ab_channel=KariKimmel-Topic"
+  },
+  {
+    "id": "13",
+    "title": "Brother",
+    "artist": "Orphaned Land",
+    "album": "All Is One",
+    "year": 2013,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc44553f1ae3c1d22925e372",
+    "youtubeUrl": "https://www.youtube.com/watch?v=qsPb1-uPIic&ab_channel=CenturyMediaRecords"
+  },
+  {
+    "id": "14",
+    "title": "The City Holds My Heart",
+    "artist": "Ghostly Kisses",
+    "album": "(EP)",
+    "year": 2018,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdf4e132227fa498e1688af9",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Tj149G4DKD8&ab_channel=GhostlyKisses"
+  },
+  {
+    "id": "15",
+    "title": "Ya Hep Ya Hiç",
+    "artist": "Şebnem Ferah",
+    "album": "Od",
+    "year": 2013,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273379476dcb16633eb518e4aa4",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ID6b1iiSG9Q&ab_channel=netdm%C3%BCzik"
+  }
+]
