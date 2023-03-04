@@ -3,9 +3,7 @@ import { View, Text, Image, Linking } from "react-native"
 import styles from "./SongCard.styles"
 
 const Card = ({ item }) => {
-
-
-
+    
     return (
         <View style={styles.container}>
             <Image

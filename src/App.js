@@ -6,11 +6,14 @@ import SearchBar from "./components/SearchBar"
 
 const App = () => {
 
+  // State
   const [songList, setSongList] = useState(musicData)
 
+  // To gets the components
   const renderSong = ({ item }) => <Card item={item} />
   const renderSeparator = () => <View style={styles.separator}/>
 
+  // For search bar
   const findSong = (text) => {
     const filterList = musicData.filter(song => {
       const fixedText = text.toLowerCase()
